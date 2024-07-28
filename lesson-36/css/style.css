@@ -1,0 +1,20 @@
+.block {
+    border: 2px solid rgb(19, 121, 53);
+    padding: 10px;
+    border-radius: 10px 0 0 10px;
+    background: rgb(212, 125, 125);
+    height: 500px;
+    overflow: auto;
+}
+
+.text {
+    box-shadow: 2px 2px 15px 2px inset;
+    border: 3px solid rgb(87, 62, 62);
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px 12px 0px 30px;
+    background: rgb(76, 78, 107);
+    height: 160px;
+    width: 210px;
+    display: inline-block;
+}
